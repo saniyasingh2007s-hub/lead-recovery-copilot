@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+	<title id="title">Lead Recovery Copilot</title>
+	<rect width="64" height="64" rx="15" fill="#123B3A"/>
+	<rect x="12" y="12" width="40" height="40" rx="7" fill="#F7FAF8"/>
+	<circle cx="25" cy="27" r="6" fill="#217A69"/>
+	<path d="M16.5 43a8.5 8.5 0 0 1 17 0v1h-17z" fill="#217A69"/>
+	<path d="M37 24h9M37 30h9M37 36h5" fill="none" stroke="#7B8F88" stroke-linecap="round" stroke-width="2.5"/>
+	<circle cx="45" cy="45" r="10" fill="#E7A936"/>
+	<path d="m40.5 45 3 3 6-6" fill="none" stroke="#173B32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+</svg>
